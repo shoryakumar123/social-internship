@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pydantic
+Pillow
+numpy
+pandas
+scikit-learn
+joblib
+google-generativeai
+python-multipart
+pyjwt
+supabase
+agora-token-builder
